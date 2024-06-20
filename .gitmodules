@@ -1,0 +1,3 @@
+[submodule "GeneralisedIncentives"]
+	path = GeneralisedIncentives
+	url = https://github.com/catalystdao/GeneralisedIncentives.git
